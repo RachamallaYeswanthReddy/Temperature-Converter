@@ -20,8 +20,8 @@ You can see a live demo of the temperature converter [here](https://temperaturec
 - Convert temperatures from Celsius to Fahrenheit.
 - A user-friendly interface with clear input fields and an easy-to-understand conversion process.
 - Real-time conversion as you type the temperature in Celsius.
-- Mobile-responsive design for usability on various devices.
 
+  
 ## Getting Started
 
 To run this application locally, follow these steps:
